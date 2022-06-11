@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/atsugi/static/css/main.67921584.chunk.css",
-    "main.js": "/atsugi/static/js/main.a80cddfb.chunk.js",
-    "main.js.map": "/atsugi/static/js/main.a80cddfb.chunk.js.map",
+    "main.js": "/atsugi/static/js/main.c257c59c.chunk.js",
+    "main.js.map": "/atsugi/static/js/main.c257c59c.chunk.js.map",
     "runtime-main.js": "/atsugi/static/js/runtime-main.6ed367d2.js",
     "runtime-main.js.map": "/atsugi/static/js/runtime-main.6ed367d2.js.map",
     "static/js/2.79750465.chunk.js": "/atsugi/static/js/2.79750465.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6ed367d2.js",
     "static/js/2.79750465.chunk.js",
     "static/css/main.67921584.chunk.css",
-    "static/js/main.a80cddfb.chunk.js"
+    "static/js/main.c257c59c.chunk.js"
   ]
 }
